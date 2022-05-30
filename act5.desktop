@@ -1,0 +1,10 @@
+[Desktop Entry]
+version=pygame v1.9.6
+Name=Mod4_act5
+Comment=hola
+Icon=/home/armentamenta40/Desktop/python/Codigo_chimp/r2d2.bmp
+Exec=/home/armentamenta40/Desktop/python/Codigo_chimp/chimp.py
+Type=Application
+Encoding=UTF-8
+Terminal=true
+Name[en_US]=act5.desktop
